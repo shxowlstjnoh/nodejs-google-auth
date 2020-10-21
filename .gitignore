@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+sessions/
+lib/authData.js
+session-store.db
+db.json
+config/*.json
